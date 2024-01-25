@@ -1,4 +1,4 @@
-# Progressive Oneness Vision
+# RVnB Vision
 
 ## Core Values and Beliefs
 
@@ -10,8 +10,8 @@ Serve as a role model for society, embodying authenticity and manifesting a real
 
 ## Mission
 
-Serve as a guiding light for projects and individuals who resonate with a transformative vision, one that centers on the profound interconnectedness of all existence, the continual evolution of our collective being, and the pursuit of authentic living. We strive to cultivate a rich mosaic of initiatives, each echoing our core values of innovation, self-awareness, and sustainability. Through this central vision document, we invite diverse interpretations and applications of these principles, fostering a harmony that respects unique goals and contexts.
+Transform tourism into a force for good by creating an innovative digital platform and service that forges connections between adventurers, nature, and communities. We will adopt high-end RVs to create unique, custom experiences that embody adventure, authenticity, and profound connections, while celebrating a diverse range of cultures and backgrounds.
 
-Our vision is for this repository to become a melting pot of ideas and aspirations, a catalyst for a collective movement that not only impacts society positively but also subtly nudges towards an understanding of our underlying unity. We are open to projects across the spectrum - entrepreneurial, educational, artistic, or technological - encouraging them to fork this vision and weave their unique thread into the global fabric of change.
+Over the next five years, we will establish a commanding presence in Bolivia's tourism industry with a fleet of 100+ all-terrain, eco-friendly RVs. Our operations will set new ecological and community standards for the travel industry and business practices at large.
 
-By embarking on this mission, we are dedicated to building a community where collaboration transcends mere physical and intellectual boundaries, hinting at a deeper connection that binds us all. We see this not just as a repository of ideas, but as a living manifesto for transformative change, a call to all who align with these values to help sculpt a world where the realization of our collective essence guides personal growth and societal advancement. This is a journey towards realizing a universal truth, subtly ingrained in our shared aspirations and endeavors.
+Building on our experiences in Bolivia, we plan to expand beyond, taking our model of sustainable, immersive travel experiences to new markets and establishing RVnB as a synonym for responsible and transformative travel worldwide.
